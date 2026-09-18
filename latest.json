@@ -1,0 +1,8 @@
+{
+  "version": "0.2.2",
+  "publishedAt": "2026-09-18",
+  "summary": "First public build. Installer to a chat window in about six minutes.",
+  "notesUrl": "https://github.com/troygrossi/local-llm-downloads/releases/tag/v0.2.2",
+  "downloadUrl": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.2.2/LOCAL_LLM_0.2.2_x64-setup.exe",
+  "sha256": "d9e5c4a02d2e552ed668161b4bbc150fa2c21559c13926cd9ad9bfcd544c916f"
+}
