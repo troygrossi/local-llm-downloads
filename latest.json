@@ -1,8 +1,8 @@
 {
-  "version": "0.2.2",
-  "publishedAt": "2026-09-18",
-  "summary": "First public build. Installer to a chat window in about six minutes.",
-  "notesUrl": "https://github.com/troygrossi/local-llm-downloads/releases/tag/v0.2.2",
-  "downloadUrl": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.2.2/LOCAL_LLM_0.2.2_x64-setup.exe",
-  "sha256": "d9e5c4a02d2e552ed668161b4bbc150fa2c21559c13926cd9ad9bfcd544c916f"
+  "version": "0.2.7",
+  "publishedAt": "2026-09-20",
+  "summary": "The app arrives built: first run no longer installs or compiles anything. macOS and Linux downloads (early). Conversations now save.",
+  "notesUrl": "https://github.com/troygrossi/local-llm-downloads/releases/tag/v0.2.7",
+  "downloadUrl": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.2.7/LOCAL_LLM_0.2.7_x64-setup.exe",
+  "sha256": "78d22e57411ad63d33aaefc4e15e3ec3d85ba5fa699ed43cb680e3d11f4362bc"
 }
