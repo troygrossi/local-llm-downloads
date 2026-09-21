@@ -1,26 +1,26 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "publishedAt": "2026-09-21",
-  "summary": "The app asks before downloading a model, checks for updates when it opens, and has a Test page that scores models on your own machine. Intel Mac download (early).",
-  "notesUrl": "https://github.com/troygrossi/local-llm-downloads/releases/tag/v0.3.0",
-  "downloadUrl": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.3.0/LOCAL_LLM_0.3.0_x64-setup.exe",
-  "sha256": "00771207790451b9f847c868318de901e27d0dbe6214ae618d1973093e38bee6",
+  "summary": "Answers only, a Connections page that lets a program you choose use the app (it does nothing until you use it), Allow actions remembered per conversation, and a better first model pick.",
+  "notesUrl": "https://github.com/troygrossi/local-llm-downloads/releases/tag/v0.4.0",
+  "downloadUrl": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.4.0/LOCAL_LLM_0.4.0_x64-setup.exe",
+  "sha256": "421be1c846c69961dd3665a003becf749ed50cb101766f230849e415178e7022",
   "assets": {
     "windows": {
-      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.3.0/LOCAL_LLM-setup.exe",
-      "sha256": "00771207790451b9f847c868318de901e27d0dbe6214ae618d1973093e38bee6"
+      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.4.0/LOCAL_LLM-setup.exe",
+      "sha256": "421be1c846c69961dd3665a003becf749ed50cb101766f230849e415178e7022"
     },
     "macos": {
-      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.3.0/LOCAL_LLM.dmg",
-      "sha256": "eb0aae506fd8e87736f8d1bd04a9cabb0e1296595f5e1d349326a1353f867051"
+      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.4.0/LOCAL_LLM.dmg",
+      "sha256": "a4874f3986202710b9e3af313b2d0224c7d132b026c3c6ce7c34de090a68d2cd"
     },
     "macosIntel": {
-      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.3.0/LOCAL_LLM-intel.dmg",
-      "sha256": "b617c9554aaceff20f3ff0f37c502a0fb2cd3baad2bff9ac7eac4eab6e8e15aa"
+      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.4.0/LOCAL_LLM-intel.dmg",
+      "sha256": "0e875ab45442645a644c624e588d5ded9784314290ca5febbea5d2ed1e9ea7b8"
     },
     "linux": {
-      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.3.0/LOCAL_LLM.AppImage",
-      "sha256": "6c9c3c1925a5c11d4d9d0e9344cc19544ec9fb24ef5ab35085e281f94c9ca30e"
+      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.4.0/LOCAL_LLM.AppImage",
+      "sha256": "3ee947d605a120cc1fa16a229acbc574188f8dca94bf4f191ad456bd2644c2f9"
     }
   }
 }
