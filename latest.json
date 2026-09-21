@@ -1,8 +1,26 @@
 {
-  "version": "0.2.7",
-  "publishedAt": "2026-09-20",
-  "summary": "The app arrives built: first run no longer installs or compiles anything. macOS and Linux downloads (early). Conversations now save.",
-  "notesUrl": "https://github.com/troygrossi/local-llm-downloads/releases/tag/v0.2.7",
-  "downloadUrl": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.2.7/LOCAL_LLM_0.2.7_x64-setup.exe",
-  "sha256": "78d22e57411ad63d33aaefc4e15e3ec3d85ba5fa699ed43cb680e3d11f4362bc"
+  "version": "0.3.0",
+  "publishedAt": "2026-09-21",
+  "summary": "The app asks before downloading a model, checks for updates when it opens, and has a Test page that scores models on your own machine. Intel Mac download (early).",
+  "notesUrl": "https://github.com/troygrossi/local-llm-downloads/releases/tag/v0.3.0",
+  "downloadUrl": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.3.0/LOCAL_LLM_0.3.0_x64-setup.exe",
+  "sha256": "00771207790451b9f847c868318de901e27d0dbe6214ae618d1973093e38bee6",
+  "assets": {
+    "windows": {
+      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.3.0/LOCAL_LLM-setup.exe",
+      "sha256": "00771207790451b9f847c868318de901e27d0dbe6214ae618d1973093e38bee6"
+    },
+    "macos": {
+      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.3.0/LOCAL_LLM.dmg",
+      "sha256": "eb0aae506fd8e87736f8d1bd04a9cabb0e1296595f5e1d349326a1353f867051"
+    },
+    "macosIntel": {
+      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.3.0/LOCAL_LLM-intel.dmg",
+      "sha256": "b617c9554aaceff20f3ff0f37c502a0fb2cd3baad2bff9ac7eac4eab6e8e15aa"
+    },
+    "linux": {
+      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.3.0/LOCAL_LLM.AppImage",
+      "sha256": "6c9c3c1925a5c11d4d9d0e9344cc19544ec9fb24ef5ab35085e281f94c9ca30e"
+    }
+  }
 }
