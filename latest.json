@@ -1,26 +1,26 @@
 {
-  "version": "0.4.1",
+  "version": "0.4.2",
   "publishedAt": "2026-09-22",
-  "summary": "Fixes from the first live QA: one-screen updates, connecting Claude Desktop made plain, failures shown as failures, one window.",
-  "notesUrl": "https://github.com/troygrossi/local-llm-downloads/releases/tag/v0.4.1",
-  "downloadUrl": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.4.1/LOCAL_LLM_0.4.1_x64-setup.exe",
-  "sha256": "26fe8c2d576db6af77ccd781520d67128b64aa3b3d5b0cb205ebc322c50e4f6d",
+  "summary": "The comparison report is free for everyone, the Windows installer is code-signed, and the site has a home at indoorcat.app.",
+  "notesUrl": "https://github.com/troygrossi/local-llm-downloads/releases/tag/v0.4.2",
+  "downloadUrl": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.4.2/LOCAL_LLM_0.4.2_x64-setup.exe",
+  "sha256": "54910e680302e6a3f51a6f630a856d21a8afa2f50b123603f31bac090cdbd247",
   "assets": {
     "windows": {
-      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.4.1/LOCAL_LLM-setup.exe",
-      "sha256": "26fe8c2d576db6af77ccd781520d67128b64aa3b3d5b0cb205ebc322c50e4f6d"
+      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.4.2/LOCAL_LLM-setup.exe",
+      "sha256": "54910e680302e6a3f51a6f630a856d21a8afa2f50b123603f31bac090cdbd247"
     },
     "macos": {
-      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.4.1/LOCAL_LLM.dmg",
-      "sha256": "4e8b7025715a6279948a8ba851e52714edb66c418429cdfc330f713a20083706"
+      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.4.2/LOCAL_LLM.dmg",
+      "sha256": "498041936351eab43d5f186548a0a0d7aeda14512792aed6847770de0233b6e2"
     },
     "macosIntel": {
-      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.4.1/LOCAL_LLM-intel.dmg",
-      "sha256": "920b67d54cd35d983fef9f3c29244db9964857c372d484d549729ad6ac843c4c"
+      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.4.2/LOCAL_LLM-intel.dmg",
+      "sha256": "447ea8dc0a1623520b8f5fd78815a41522e69e377f0e24075c3a376df71b96b3"
     },
     "linux": {
-      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.4.1/LOCAL_LLM.AppImage",
-      "sha256": "8bb40ef198d1c801d4146993e3b363449140395241f43efe25c3fad1b01d4c5c"
+      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.4.2/LOCAL_LLM.AppImage",
+      "sha256": "08b4e82cf0b1efb9fbfe11b10bf7b1317b43c12b8644c064f5b353a0b5432d94"
     }
   }
 }
