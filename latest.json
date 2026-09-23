@@ -1,26 +1,26 @@
 {
-  "version": "0.5.0",
+  "version": "0.6.0",
   "publishedAt": "2026-09-23",
-  "summary": "Every tool is a card on the Tools page with its state and an on/off switch; Connected services moved to Settings -> Packages.",
-  "notesUrl": "https://github.com/troygrossi/local-llm-downloads/releases/tag/v0.5.0",
-  "downloadUrl": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.5.0/LOCAL_LLM_0.5.0_x64-setup.exe",
-  "sha256": "083f38abd66ad10582175471b9a0e24e79c5b0df606f2d0ab9bc295b4ef83653",
+  "summary": "Fixes: a switched-off tool no longer leaves the note spinning; Settings shows the real database file; a base model can be removed once nothing is built on it. Text is larger and higher-contrast throughout.",
+  "notesUrl": "https://github.com/troygrossi/local-llm-downloads/releases/tag/v0.6.0",
+  "downloadUrl": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.6.0/LOCAL_LLM_0.6.0_x64-setup.exe",
+  "sha256": "b148c507e0a71d6492f03f0e867d26f0650ab29a774e15eada345548ab8bb81c",
   "assets": {
     "windows": {
-      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.5.0/LOCAL_LLM-setup.exe",
-      "sha256": "083f38abd66ad10582175471b9a0e24e79c5b0df606f2d0ab9bc295b4ef83653"
+      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.6.0/LOCAL_LLM-setup.exe",
+      "sha256": "b148c507e0a71d6492f03f0e867d26f0650ab29a774e15eada345548ab8bb81c"
     },
     "macos": {
-      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.5.0/LOCAL_LLM.dmg",
-      "sha256": "a9b807509c00139e8a3e98c575ea32554abaab674acb63ab89a9e892562563ef"
+      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.6.0/LOCAL_LLM.dmg",
+      "sha256": "de4d48eb5c10c2c3b72caf5373b9ac6356130f0e2d66cbf83f0bff652601355f"
     },
     "macosIntel": {
-      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.5.0/LOCAL_LLM-intel.dmg",
-      "sha256": "6df21a0786ad79dbe197afa952678e353a2834af95b2ddc33c6c87dbf2b3b8db"
+      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.6.0/LOCAL_LLM-intel.dmg",
+      "sha256": "9d1e9c9b240efb88927d2206180033698ff35b090b2e0808e92ad3c4b6804eac"
     },
     "linux": {
-      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.5.0/LOCAL_LLM.AppImage",
-      "sha256": "98616e297f44710b20bcc195ad1132004a066fb065b7312abb27fb2d9f31ef30"
+      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.6.0/LOCAL_LLM.AppImage",
+      "sha256": "b7ec5fcb1b0e63701e828fb98c1abe5994ec2e1efc37a3e820e5a663b75eb048"
     }
   }
 }
