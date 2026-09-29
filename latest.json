@@ -1,26 +1,26 @@
 {
-  "version": "0.10.1",
-  "publishedAt": "2026-09-28",
-  "summary": "Move files to a folder at any width; choose your default model; see where each file came from.",
-  "notesUrl": "https://github.com/troygrossi/local-llm-downloads/releases/tag/v0.10.1",
-  "downloadUrl": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.10.1/LOCAL_LLM_0.10.1_x64-setup.exe",
-  "sha256": "c9db879db05e2393b0b76cd736cdf030a7f16aa0189a114f85d815f08fa074ea",
+  "version": "0.11.1",
+  "publishedAt": "2026-09-29",
+  "summary": "Notebooks: write notes, save a reply, clip a page, all as markdown files on your own computer. Files and Notebooks open over the conversation. Stop really cancels a picture.",
+  "notesUrl": "https://github.com/troygrossi/local-llm-downloads/releases/tag/v0.11.1",
+  "downloadUrl": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.11.1/LOCAL_LLM_0.11.1_x64-setup.exe",
+  "sha256": "61b0b262d67be71af51491bf4066a9c58c7b61d22058a8b7ba28597ccb9e1615",
   "assets": {
     "windows": {
-      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.10.1/LOCAL_LLM-setup.exe",
-      "sha256": "c9db879db05e2393b0b76cd736cdf030a7f16aa0189a114f85d815f08fa074ea"
+      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.11.1/LOCAL_LLM-setup.exe",
+      "sha256": "61b0b262d67be71af51491bf4066a9c58c7b61d22058a8b7ba28597ccb9e1615"
     },
     "macos": {
-      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.10.1/LOCAL_LLM.dmg",
-      "sha256": "ddbd25ec168d2c43616f599072f5f1164eeba72f0d2ed17b0147e0b7d2503876"
+      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.11.1/LOCAL_LLM.dmg",
+      "sha256": "0ee5082a77ec6011af2a2cc5afe1b687c57be2479997882e1cf74a66640f3899"
     },
     "macosIntel": {
-      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.10.1/LOCAL_LLM-intel.dmg",
-      "sha256": "6b8f36ee1e29ae654b59980d1be6641fe3a59d809c4e973266baf6d87bd4f366"
+      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.11.1/LOCAL_LLM-intel.dmg",
+      "sha256": "cc017f6ae42ab6fb448d617fa95ffaaa52a5060040cb90444e052d4e526a0de8"
     },
     "linux": {
-      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.10.1/LOCAL_LLM.AppImage",
-      "sha256": "d04efb603d47175b9047a3035102cf07c437a492abc63f2701edbb7338e94597"
+      "url": "https://github.com/troygrossi/local-llm-downloads/releases/download/v0.11.1/LOCAL_LLM.AppImage",
+      "sha256": "f9d50d8b5b61c49bd3524f6467a77f5fbd8fd9d28d5d38202ccae6cf81babb66"
     }
   }
 }
